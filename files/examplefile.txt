@@ -1,0 +1,10 @@
+
+fs = require('fs')
+fs.rea
+  code: 'ENOENT',
+  path: '/doesnt/exist' }
+This is a basic Node.js Error object - it can often be useful to log err.stack directly, since this contains a stack trace to the location in code at which the Error object was created.
+
+Copyright OpenJS Foundation and Node.js contributors. All rights reserved. The OpenJS Foundation has registered trademarks and uses trademarks. For a list of trademarks of the OpenJS Foundation, please see our Trademark Policy and Trademark List. Trademarks and logos not indicated on the list of OpenJS Foundation trademarks are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
+
+The OpenJS Foundation | Terms of Use | Privacy Policy | Bylaws | Code of Conduct | Trademark Policy | Trademark List | Cookie Policy | Edit On GitHub
