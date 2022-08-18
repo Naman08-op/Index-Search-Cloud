@@ -43,7 +43,7 @@
 <script>
  import axios from "axios";
 export default {
-  name: 'HelloWorld',
+  name: 'Search',
   data(){
     return {
       search:"",
